@@ -4,7 +4,7 @@
 ### <div align="center">I'm Zahfir, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on a GIS mapping solution called Meet Me Halfway 
+- 🔭 I’m currently working on a GIS mapping solution called [Meet Me Halfway](https://github.com/zahfir/meet-me-halfway)
   
 
 - 🌱 I’m currently learning Golang and Kubernetes  
